@@ -1,2 +1,2 @@
-chiranth 
-i donot love codeing
+chiranth \n
+i donot love coding
