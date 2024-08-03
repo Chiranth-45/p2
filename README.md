@@ -1,3 +1,3 @@
 # chiranth 
 # you donot love coding
-# you can not became a software 
+# you can not became a 
