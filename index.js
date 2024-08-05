@@ -16,7 +16,7 @@ let posts=[
     {
         id:uuidv4(),
         username:"apna college",
-        content:"I  Love Coding",
+        content:"I  Love Coding", 
     },
     {
         id:uuidv4(),
