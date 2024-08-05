@@ -13,7 +13,7 @@ app.set("views",path.join(__dirname,"views"));
 
 app.use(express.static(path.join(__dirname,"public")));
 let posts=[
-    {
+    { 
         id:uuidv4(),
         username:"apna college",
         content:"I  Love Coding", 
